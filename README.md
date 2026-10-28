@@ -6,15 +6,15 @@ I enjoy solving problems with Python, developing backend APIs, and building appl
 
 ## 🎓 Education
 
-B.Sc. in Computer Science — University of Calcutta (Completed).
-BS in Data Science — IIT Madras (Ongoing)
+🎓 B.Sc. in Computer Science — University of Calcutta (Completed).
+🎓 BS in Data Science — IIT Madras (Ongoing)
 
 ## 💡 Areas of Interest
 
-Artificial Intelligence and Machine Learning
-Software Engineering
-Data Science
-Data Structures and Algorithms
+- Artificial Intelligence and Machine Learning
+- Software Engineering
+- Data Science
+- Data Structures and Algorithms
 
 ## Featured Projects
 
